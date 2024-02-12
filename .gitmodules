@@ -1,0 +1,6 @@
+[submodule "lily"]
+	path = lily
+	url = ./lily/
+[submodule "stem"]
+	path = stem
+	url = ./stem
