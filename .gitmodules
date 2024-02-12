@@ -1,6 +1,6 @@
 [submodule "lily"]
 	path = lily
-	url = ./lily/
+	url = https://github.com/LilyIsTrans/LilyKernel
 [submodule "stem"]
 	path = stem
-	url = ./stem
+	url = https://github.com/LilyIsTrans/LilyStem
